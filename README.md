@@ -47,5 +47,5 @@ After executing the tests, you can find the reports in the following locations:
 
 ## 🔗 Resources
 
-- **Reqres API**: [Visit Website](https://dashboard.melaka.app/register)
+- **Melaka App**: [Visit Website](https://dashboard.melaka.app/register)
 
